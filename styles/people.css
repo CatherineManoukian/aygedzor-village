@@ -6,7 +6,7 @@ body {
 .head {
 	position: relative;
 	top: 0%;
-	height: 60px;
+	height: 10%;
 }
 
 .russian_flag {
@@ -42,7 +42,7 @@ body {
 
 a {
 	position: relative;
-	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	font-family: 300 18px/31px "Montserrat am",Arial,sans-serif;
 	text-decoration: none;
 }
 
